@@ -1,2 +1,2 @@
-# odin-recipes
-this is prohect describing all the skills that can the got from the html foundations 
+# Odin-recipes
+this is project describing all the skills that can the got from the html foundations 
